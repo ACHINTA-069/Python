@@ -1,0 +1,3 @@
+l=["Rohan",False,"Harry",60,"Achinta"]
+for i in l:
+    print(i)

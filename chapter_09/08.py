@@ -1,0 +1,3 @@
+with open("myfile.txt","w") as f:
+    content=f.write("")
+#This programe will blank the txt file.......

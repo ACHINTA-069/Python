@@ -1,0 +1,5 @@
+word="amazing"
+print(word[1:6]) #it will print"mazin"
+print(word[1:7:2])# it will print "mzn"
+print(word[:7])#it will print"amazin"
+print(word[0:])#it will print"amazin"
